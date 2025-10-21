@@ -19,6 +19,7 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,20 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Depth-First Search
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
+## Union Find
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
