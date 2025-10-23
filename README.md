@@ -11,10 +11,12 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +46,16 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
