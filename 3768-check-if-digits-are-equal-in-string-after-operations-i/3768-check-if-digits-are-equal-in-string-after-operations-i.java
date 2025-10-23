@@ -7,7 +7,7 @@ class Solution {
                 int mod = sum%10;
                 str += (mod+"");
             }
-            s = new String(str);
+            s = str;
         }
         if(s.charAt(0) == s.charAt(1)) return true;
         return false;
