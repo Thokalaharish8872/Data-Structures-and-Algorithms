@@ -18,7 +18,8 @@ class Solution {
             for(int j=0;j<m;j++){
                 if(i == 0 || j == 0 || i == n-1 || j == m-1){
                     if(!isVisited[i][j] && board[i][j] == 'O'){
-                        bfs(board,isVisited,dir,i,j);
+                        Pair pair = new Pair(i,j,-1,-1);
+                        dfs(board,isVisited,dir,pair);
                     }
                 }
             }
@@ -31,19 +32,29 @@ class Solution {
         }
     }
 
-    private void bfs(char[][] board,boolean[][] isVisited,int[] dir,int i,int j){
-        isVisited[i][j] = true;
-        Queue<Pair> q = new LinkedList<>();
-        Pair pair = new Pair(i,j,-1,-1);
-        q.add(pair);
-        
-        while(!q.isEmpty()){
-            pair = q.remove();
-            getBorders(board,isVisited,dir,q,pair);
+    private void dfs(char[][] board,boolean[][] isVisited,int[] dir,Pair pair){
+        if(pair.curri < 0 || pair.currj < 0 || pair.curri >= board.length || pair.currj >= board[0].length) return;
+        else if(board[pair.curri][pair.currj] == 'X' || isVisited[pair.curri][pair.currj]) return;
+
+        isVisited[pair.curri][pair.currj] = true;
+        for(int i=0;i<4;i++){
+            dfs(board,isVisited,dir,new Pair(pair.curri+dir[i],pair.currj+dir[i+1],pair.curri,pair.currj));
         }
     }
 
-    private void getBorders(char[][] board,boolean[][] isVisited,int[] dir,Queue<Pair> q,Pair pair){
+    private void bfs(char[][] board,boolean[][] isVisited,int[] dir,Pair pair){
+        Queue<Pair> q = new LinkedList<>();
+        q.add(pair);
+        
+        isVisited[pair.curri][pair.currj] = true;
+
+        while(!q.isEmpty()){
+            pair = q.remove();
+            helper(board,isVisited,dir,q,pair);
+        }
+    }
+
+    private void helper(char[][] board,boolean[][] isVisited,int[] dir,Queue<Pair> q,Pair pair){
         for(int i=0;i<4;i++){
             int nexti = pair.curri + dir[i];
             int nextj = pair.currj + dir[i+1];
