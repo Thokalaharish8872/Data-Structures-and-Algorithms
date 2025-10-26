@@ -40,18 +40,21 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Matrix
@@ -78,4 +81,8 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2169-simple-bank-system) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
