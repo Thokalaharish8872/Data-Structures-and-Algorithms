@@ -7,6 +7,7 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [2169-simple-bank-system](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2169-simple-bank-system](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -51,6 +53,7 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
@@ -61,4 +64,8 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
