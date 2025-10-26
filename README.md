@@ -23,6 +23,7 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 | ------- |
 | [0130-surrounded-regions](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1073-number-of-enclaves](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2169-simple-bank-system](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -39,21 +40,25 @@ Thokalaharish8872/Data-Structures-and-Algorithms leetcode
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Thokalaharish8872/Data-Structures-and-Algorithms/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Simulation
 |  |
